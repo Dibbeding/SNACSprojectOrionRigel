@@ -1,0 +1,19 @@
+landmark:100
+highest degree node:100
+map node:87713
+basic landmark number:16
+highest nodes of basic:16
+highest nodes for normal:16
+
+output prefix:out
+matrix file:l_PS_small.txt
+landmark file:r_PS_small.txt
+input file prefix:0
+parameter name:(null)
+neighbour number:16
+demision:5
+landmark comptutation method:1
+sys node:87713
+curvature:-1
+start tree ID:0
+end tree ID:1
