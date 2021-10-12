@@ -1,0 +1,8 @@
+./rigel -b 16 -e -1 -i 16 -L 100 -l l.txt -o outl -r r.txt -t 0 -u 1000 -x 10 -y -1
+
+Make sure xxx.land and xxx.coord have the same prefix
+
+Scripts needed:
+- Average related error
+- Distribution of the related error
+- Avergae related error split on node distance (Distribution)

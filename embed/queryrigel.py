@@ -50,9 +50,9 @@ if __name__ == '__main__':
                 coordinates[id] = coords
 
     while True:
-        query_input = raw_input("Enter ID of 2 nodes: ")
+        query_input = input("Enter ID of 2 nodes: ")
         
-        if query_input == 'exit' || query_input == 'q' || query_input == 'quit':
+        if query_input == 'exit' or query_input == 'q' or query_input == 'quit':
             break
 
         querysplit = query_input.split()
@@ -60,4 +60,4 @@ if __name__ == '__main__':
         destination = int(querysplit[1])
 
         estimate = query(coordinates, source, destination, curvature)
-        print 'Rigel estimates the distance between %d and %d to be %f.\n' % (source, destination, estimate)
+        print('Rigel estimates the distance between %d and %d to be %f.\n' % (source, destination, estimate))
