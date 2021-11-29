@@ -1,0 +1,36 @@
+SNACS - Peer Review:
+Introduction:
+- supermarket vs super market (?)
+- related work in introduction? 
+- as you write, a more detailed contribution would be nice to have in the introduction
+2.3 Problem statement: 
+- example features and why they are used, e.g. just to introduce what a temporal topological feature is?
+- (as you write with red:) formulas of logistic regression, clear definitions and notations of features, target, etc.
+.(((( by adding these it might not be that short ))))
+4. Approach:
+- pair ON nodes (pair of nodes) :)
+- sampled node pairs: more details about this: why this is necessary, time complexity reasons, how do you sample (why?) 
+- introduction of train and test set might better fit to experiments?
+- the definition of AUC might be expanded a bit: why 1 is good and 0.5 is worse
+- the total number of features used by logistic regr?
+- motivation behind using these features? what others could be useD?
+5. Datasets:
+- what kind of networks are these? from where? is it FB, intsa or what?
+- what are the main differences between them?
+- are the features have to be calculated by you?
+
+
+Other
+- time complexity might depend on the number of features. How is that influences the training?
+- runtime example? or is this not an issue here?
+- Do you use an existing API or have to recode the algorithm?
+- do you want to compare results with the original paper? are you sure you cant use the same datasets?
+- Edge type in table 1 - what is taht?
+- maybe some more figures? it feels hard to add any but maybe some explanatory at the begining
+
+- very precise referencing
+- neat format (maybe table positioning could be improved, but it is hard before the end of the project (imo))
+- detailed related work discovery
+- clear introduction and statement of the topic, with some examples
+- in total a very intresting topic with good ideas added
+
