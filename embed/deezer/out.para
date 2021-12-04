@@ -1,0 +1,19 @@
+landmark:100
+highest degree node:100
+map node:47538
+basic landmark number:16
+highest nodes of basic:16
+highest nodes for normal:16
+
+output prefix:out
+matrix file:l_deezer.txt
+landmark file:r_deezer.txt
+input file prefix:0
+parameter name:(null)
+neighbour number:16
+demision:10
+landmark comptutation method:1
+sys node:47538
+curvature:-1
+start tree ID:0
+end tree ID:1
