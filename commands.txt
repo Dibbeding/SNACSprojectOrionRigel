@@ -2,7 +2,3 @@
 
 Make sure xxx.land and xxx.coord have the same prefix
 
-Scripts needed:
-- Average related error
-- Distribution of the related error
-- Avergae related error split on node distance (Distribution)
